@@ -13,7 +13,7 @@
 
 - 🌱 I’m currently learning **Computer Science**
 
-- 📫 How to reach me **2022cs102@stu.ucsc.cmb.ac.lk**
+- 📫 How to reach me **lakshan2725@gmail.com**
 
 - 👨‍💻 All of my projects are available at **this Accoount**
 
